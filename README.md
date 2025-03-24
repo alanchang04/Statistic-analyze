@@ -21,7 +21,7 @@ social-media-statistics/
 ├── slides/
 │   └── final_presentation.pptx        # Final presentation slides
 ├── scripts/
-│   └── analysis_code.R                # R script used for statistical testing
+│   └── analysis_code.py               # python  used for statistical testing
 ├── questionnaire/
 │   └── survey_questions.pdf           # List of grouped questions by category
 ├── README.md
@@ -35,9 +35,9 @@ social-media-statistics/
 |------|------|
 | 📋 問卷 | Google 表單設計，涵蓋 6 大類心理與社交面向（如：依賴感、孤獨感、分享欲等） |
 | 📂 資料集 | 共回收 339 份，清理後有效樣本數為 304 份（CSV 格式） |
-| 📊 統計分析程式碼 | 使用 R 語言撰寫，包含卡方檢定、Fisher 檢定、ANOVA、線性回歸等分析 |
+| 📊 統計分析程式碼 | 使用 python 語言撰寫，包含卡方檢定、Fisher 檢定、ANOVA、線性回歸等分析 |
 | 📝 書面報告 | PDF 格式，包含動機、方法、研究問題、統計檢定、解釋與結論 |
-| 📽️ 簡報 | 用於期末報告展示的投影片（PowerPoint 格式） |
+| 📽️ 簡報 | 用於期末報告展示的投影片（PowerPoint Form） |
 
 ---
 
