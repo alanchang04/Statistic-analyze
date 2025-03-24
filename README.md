@@ -15,15 +15,15 @@ This repository contains all files and code related to our final project in the 
 ```
 social-media-statistics/
 ├── data/
-│   └── survey_data.csv                 # Cleaned dataset (Google Form exported)
+│   └── 統計資料分析期末報告.csv                 # Dataset (Google Form exported)
 ├── report/
-│   └── written_report.pdf              # Formal report (booklet style)
+│   └── 統計期末書面報告(2).pdf              # Formal report (booklet style)
 ├── slides/
-│   └── final_presentation.pptx        # Final presentation slides
+│   └── statistic final project(4).pptx        # Final presentation slides
 ├── scripts/
-│   └── analysis_code.py               # python  used for statistical testing
+│   └── fsp.py               # python  used for statistical testing
 ├── questionnaire/
-│   └── survey_questions.pdf           # List of grouped questions by category
+│   └── links         # Google docs
 ├── README.md
 ```
 
